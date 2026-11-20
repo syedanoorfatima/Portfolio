@@ -2,6 +2,12 @@
 
 A personal portfolio website created to introduce my work as a web developer and present my skills, services, projects, and contact information.
 
+
+## 🌐 Live Demo
+
+[Open the deployed website](https://portfolio-silk-nu-bqzcb2uy10.vercel.app)
+
+
 ## ✨ Portfolio Sections
 
 - Home / introduction
@@ -43,3 +49,8 @@ MERN Stack / Web Developer
 
 ---
 *Thanks for visiting my portfolio repository!*
+
+
+## 📸 Screenshots
+
+Screenshots are not yet included in this repository README. Add genuine screenshots of the running project in a `screenshots/` folder and link them here so visitors can preview the actual interface.
